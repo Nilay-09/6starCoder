@@ -28,4 +28,16 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nilay-09/6starCoder/tree/master/0001-two-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
+## Depth-First Search
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilay-09/6starCoder/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Graph
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilay-09/6starCoder/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilay-09/6starCoder/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
