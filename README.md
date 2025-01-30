@@ -16,6 +16,7 @@
 | [0684-redundant-connection](https://github.com/Nilay-09/6starCoder/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/Nilay-09/6starCoder/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nilay-09/6starCoder/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -46,6 +47,7 @@
 | [0684-redundant-connection](https://github.com/Nilay-09/6starCoder/tree/master/0684-redundant-connection) |
 | [1558-course-schedule-iv](https://github.com/Nilay-09/6starCoder/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Nilay-09/6starCoder/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nilay-09/6starCoder/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
@@ -55,5 +57,6 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Nilay-09/6starCoder/tree/master/0684-redundant-connection) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Nilay-09/6starCoder/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
