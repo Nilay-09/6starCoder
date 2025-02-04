@@ -8,6 +8,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Nilay-09/6starCoder/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Nilay-09/6starCoder/tree/master/0854-making-a-large-island) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Nilay-09/6starCoder/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3429-special-array-i](https://github.com/Nilay-09/6starCoder/tree/master/3429-special-array-i) |
