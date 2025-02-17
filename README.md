@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nilay-09/6starCoder/tree/master/0001-two-sum) |
+| [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
@@ -73,6 +74,7 @@
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 ## Math
@@ -83,5 +85,10 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nilay-09/6starCoder/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## String
+|  |
+| ------- |
+| [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
 <!---LeetCode Topics End-->
