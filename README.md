@@ -11,6 +11,7 @@
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilay-09/6starCoder/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3429-special-array-i](https://github.com/Nilay-09/6starCoder/tree/master/3429-special-array-i) |
@@ -91,4 +92,16 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Sliding Window
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
