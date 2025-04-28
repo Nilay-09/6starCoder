@@ -10,6 +10,7 @@
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilay-09/6starCoder/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
@@ -99,9 +100,18 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Binary Search
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
