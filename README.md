@@ -15,6 +15,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nilay-09/6starCoder/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3429-special-array-i](https://github.com/Nilay-09/6starCoder/tree/master/3429-special-array-i) |
 ## Breadth-First Search
 |  |
@@ -102,6 +103,7 @@
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nilay-09/6starCoder/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Monotonic Queue
 |  |
 | ------- |
