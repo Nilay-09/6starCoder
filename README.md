@@ -85,6 +85,7 @@
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nilay-09/6starCoder/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Nilay-09/6starCoder/tree/master/3201-distribute-candies-among-children-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,4 +117,12 @@
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Nilay-09/6starCoder/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Nilay-09/6starCoder/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
