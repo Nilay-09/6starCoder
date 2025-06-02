@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nilay-09/6starCoder/tree/master/0001-two-sum) |
+| [0135-candy](https://github.com/Nilay-09/6starCoder/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Nilay-09/6starCoder/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Nilay-09/6starCoder/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Nilay-09/6starCoder/tree/master/3201-distribute-candies-among-children-ii) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Nilay-09/6starCoder/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
