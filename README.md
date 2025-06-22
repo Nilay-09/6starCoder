@@ -95,6 +95,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilay-09/6starCoder/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nilay-09/6starCoder/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Queue
@@ -135,4 +136,12 @@
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nilay-09/6starCoder/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilay-09/6starCoder/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilay-09/6starCoder/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
