@@ -96,6 +96,7 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nilay-09/6starCoder/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Queue
 |  |
 | ------- |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Nilay-09/6starCoder/tree/master/0135-candy) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nilay-09/6starCoder/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
