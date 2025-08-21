@@ -9,6 +9,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Nilay-09/6starCoder/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Nilay-09/6starCoder/tree/master/0854-making-a-large-island) |
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilay-09/6starCoder/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nilay-09/6starCoder/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Nilay-09/6starCoder/tree/master/0854-making-a-large-island) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -144,4 +146,16 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nilay-09/6starCoder/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
