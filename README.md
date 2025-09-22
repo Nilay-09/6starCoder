@@ -18,6 +18,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nilay-09/6starCoder/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nilay-09/6starCoder/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3429-special-array-i](https://github.com/Nilay-09/6starCoder/tree/master/3429-special-array-i) |
 ## Breadth-First Search
 |  |
@@ -50,6 +51,7 @@
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nilay-09/6starCoder/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Nilay-09/6starCoder/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Nilay-09/6starCoder/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
