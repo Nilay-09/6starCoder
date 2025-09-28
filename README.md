@@ -8,6 +8,7 @@
 | [0135-candy](https://github.com/Nilay-09/6starCoder/tree/master/0135-candy) |
 | [0407-trapping-rain-water-ii](https://github.com/Nilay-09/6starCoder/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Nilay-09/6starCoder/tree/master/0854-making-a-large-island) |
+| [1018-largest-perimeter-triangle](https://github.com/Nilay-09/6starCoder/tree/master/1018-largest-perimeter-triangle) |
 | [1364-tuple-with-same-product](https://github.com/Nilay-09/6starCoder/tree/master/1364-tuple-with-same-product) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
@@ -89,6 +90,7 @@
 ## Math
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Nilay-09/6starCoder/tree/master/1018-largest-perimeter-triangle) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Nilay-09/6starCoder/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Nilay-09/6starCoder/tree/master/3201-distribute-candies-among-children-ii) |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Nilay-09/6starCoder/tree/master/0135-candy) |
+| [1018-largest-perimeter-triangle](https://github.com/Nilay-09/6starCoder/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
+## Sorting
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Nilay-09/6starCoder/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
