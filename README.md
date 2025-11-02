@@ -14,6 +14,7 @@
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Nilay-09/6starCoder/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2169-simple-bank-system](https://github.com/Nilay-09/6starCoder/tree/master/2169-simple-bank-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nilay-09/6starCoder/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -43,6 +44,7 @@
 | [0854-making-a-large-island](https://github.com/Nilay-09/6starCoder/tree/master/0854-making-a-large-island) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Nilay-09/6starCoder/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Nilay-09/6starCoder/tree/master/1876-map-of-highest-peak) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nilay-09/6starCoder/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nilay-09/6starCoder/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
@@ -147,6 +149,7 @@
 | ------- |
 | [2169-simple-bank-system](https://github.com/Nilay-09/6starCoder/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Nilay-09/6starCoder/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Nilay-09/6starCoder/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
 | ------- |
