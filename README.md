@@ -23,6 +23,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nilay-09/6starCoder/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nilay-09/6starCoder/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3429-special-array-i](https://github.com/Nilay-09/6starCoder/tree/master/3429-special-array-i) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilay-09/6starCoder/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nilay-09/6starCoder/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Breadth-First Search
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Nilay-09/6starCoder/tree/master/0407-trapping-rain-water-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilay-09/6starCoder/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nilay-09/6starCoder/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
@@ -59,6 +61,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Nilay-09/6starCoder/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Nilay-09/6starCoder/tree/master/2685-first-completely-painted-row-or-column) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Nilay-09/6starCoder/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilay-09/6starCoder/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nilay-09/6starCoder/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Depth-First Search
 |  |
@@ -122,6 +125,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Nilay-09/6starCoder/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Nilay-09/6starCoder/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Nilay-09/6starCoder/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Nilay-09/6starCoder/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nilay-09/6starCoder/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Monotonic Queue
 |  |
