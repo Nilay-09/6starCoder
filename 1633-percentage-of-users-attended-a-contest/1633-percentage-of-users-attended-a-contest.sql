@@ -3,7 +3,7 @@ SELECT r.contest_id,
 ROUND(COUNT(user_id) *100 /(SELECT COUNT(user_id)*1.0 FROM Users),2) AS percentage
 FROM Register r
 GROUP BY r.contest_id 
-ORDER BY COUNT(user_id) *100 /(SELECT COUNT(user_id)*1.0 FROM Users) DESC,
+ORDER BY percentage DESC,
 r.contest_id ASC
 
 
