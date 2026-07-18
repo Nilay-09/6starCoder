@@ -1,12 +1,14 @@
 SELECT
-    CONCAT(TO_CHAR(trans_date, 'YYYY'),'-',TO_CHAR(trans_date, 'MM')) AS month    ,
+    TO_CHAR(trans_date,'YYYY-MM') AS month,
     country,
-    (count(trans_date)) AS trans_count,
+    COUNT(*) AS trans_count,
     SUM(CASE WHEN state='approved' THEN 1 ELSE 0 END) AS approved_count,
     SUM(amount) AS trans_total_amount,
     SUM(CASE WHEN state='approved' THEN amount ELSE 0 END) AS approved_total_amount
-FROM Transactions 
-GROUP BY country,TO_CHAR(trans_date, 'YYYY'),TO_CHAR(trans_date, 'MM')
+FROM Transactions
+GROUP BY
+    TO_CHAR(trans_date,'YYYY-MM'),
+    country;
 
 /*
 Synced seamlessly with LeetHub Pro
