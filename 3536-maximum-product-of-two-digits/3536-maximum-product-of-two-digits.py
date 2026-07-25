@@ -1,9 +1,12 @@
 class Solution:
     def maxProduct(self, n: int) -> int:
-        v = [int(x) for x in str(n)]
-        v.sort(reverse=True)
-        return v[0]*v[1]
-        
+        m = 0
+        while n:
+            m += 1 << ((n % 10) << 2)
+            n //= 10
+
+        u = (m.bit_length() - 1) >> 2
+        return u * (((m - (1 << (u << 2))).bit_length() - 1) >> 2)
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
