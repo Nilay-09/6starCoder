@@ -1,12 +1,18 @@
 class Solution {
 public:
 
-    long long stair_count(long long n,long long a,long long b){
-        if (n==1) return a; 
-        return stair_count(n-1,b,a+b);
-    }
     int climbStairs(int n) {
-        return stair_count(n,1,2);
+       long long prev=1;
+       long long curr=2;
+
+       if(n==1|| n==2) return n;
+
+       for(int i=3;i<=n;i++){
+        long long sum=prev+curr;
+        prev=curr;
+        curr=sum;
+       }
+       return curr;
     }
 };
 
