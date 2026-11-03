@@ -1,10 +1,10 @@
 class Solution {
   public:
   
-    void getAllSubsetHavingTargetSum(vector<int> &arr,vector<int>&ans,int sum,int idx,int target){
+    void getAllSubsetHavingTargetSum(vector<int> &arr,int &ans,int sum,int idx,int target){
         
         if(idx==arr.size()){
-            if(sum==target) ans.push_back(sum);
+            if(sum==target) ++ans;
             return;
         }
         
@@ -17,9 +17,9 @@ class Solution {
     }
     int perfectSum(vector<int>& arr, int target) {
         // code here
-        vector<int>ans;
+        int ans=0;
         getAllSubsetHavingTargetSum(arr,ans,0,0,target);
-        return ans.size();
+        return ans;
         
     }
 };
