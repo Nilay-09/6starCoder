@@ -1,18 +1,18 @@
 class Solution {
   public:
   
-    void getAllSubsetSum(vector<int> &arr,vector<int> &ans,vector<int> &temp,int idx){
+    void getAllSubsetSum(vector<int> &arr,vector<int> &ans,int &sum,int idx){
         
         if(idx==arr.size()){
-            ans.push_back(accumulate(temp.begin(),temp.end(),0));
+            ans.push_back(sum);
             return;
         }
         
-        getAllSubsetSum(arr,ans,temp,idx+1);
+        getAllSubsetSum(arr,ans,sum,idx+1);
         
-        temp.push_back(arr[idx]);
-        getAllSubsetSum(arr,ans,temp,idx+1);
-        temp.pop_back();
+        sum+=arr[idx];
+        getAllSubsetSum(arr,ans,sum,idx+1);
+        sum-=arr[idx];
         
     }
   
@@ -21,7 +21,8 @@ class Solution {
         
         vector<int>ans;
         vector<int>temp;
-        getAllSubsetSum(arr,ans,temp,0);
+        int sum=0;
+        getAllSubsetSum(arr,ans,sum,0);
         
         return ans;
         
