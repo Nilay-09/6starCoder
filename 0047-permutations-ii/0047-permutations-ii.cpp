@@ -1,38 +1,28 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    vector<int> curr;
-    vector<bool> visited;
 
-    void backtrack(vector<int>& nums) {
-        if (curr.size() == nums.size()) {
-            ans.push_back(curr);
+    vector<vector<int>> ans;
+
+    void permute(vector<int>& arr,int idx=0){
+        if(idx==arr.size()){
+            ans.push_back(arr);
             return;
         }
+        vector<bool> visited(21,0);
+        for(int i=idx;i<arr.size();i++){
+            if(visited[arr[i]+10]) continue;
 
-        for (int i = 0; i < nums.size(); i++) {
-            if (visited[i]) continue;
-
-            if (i > 0 && nums[i] == nums[i - 1] && !visited[i - 1])
-                continue;
-
-            visited[i] = true;
-            curr.push_back(nums[i]);
-
-            backtrack(nums);
-
-            curr.pop_back();
-            visited[i] = false;
+            swap(arr[idx],arr[i]);
+            permute(arr,idx+1);
+            swap(arr[idx],arr[i]);
+            visited[arr[i]+10]=1;
         }
     }
-
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        visited.assign(nums.size(), false);
 
-        backtrack(nums);
-
+        permute(nums,0);
         return ans;
+        
     }
 };
 
