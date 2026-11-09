@@ -15,21 +15,12 @@ class Solution {
 	void deleteNode(Node* x) {
 		// code here
 		
-		Node * curr = x->next;
-		Node * prev = x;
+		Node* temp = x->next;
 		
-		while (curr->next != NULL) {
-			
-			prev->data = curr->data;
-			prev = curr;
-			curr = curr->next;
-			
-		}
+		x->data = temp->data;
+		x->next = temp->next;
 		
-		prev->data = curr->data;
-		prev->next = NULL;
-		
-		delete curr;
+		delete temp;
 		
 	}
 };
