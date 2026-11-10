@@ -17,10 +17,7 @@ public:
 
         while (fst != NULL && fst->next != NULL) {
             slo = slo->next;
-            fst = fst->next;
-            if (fst->next!= nullptr) {
-                fst = fst->next;
-            }
+            fst = fst->next->next;
         }
 
         return slo;
