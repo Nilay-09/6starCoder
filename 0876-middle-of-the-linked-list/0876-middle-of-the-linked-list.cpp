@@ -15,7 +15,7 @@ public:
         ListNode* fst = head;
         ListNode* slo = head;
 
-        while (fst != NULL && fst->next != NULL) {
+        while (fst && fst->next) {
             slo = slo->next;
             fst = fst->next->next;
         }
